@@ -1,0 +1,53 @@
+#EXTM3U
+
+# Litt Live Radio
+#EXTINF:-1, Litt Live Radio Channel 1
+http://littliveradio.com/channel1
+#EXTINF:-1, Litt Live Radio Channel 2
+http://littliveradio.com/channel2
+
+# 181FM
+#EXTINF:-1, 181FM Classic
+http://181fm.com/classic
+#EXTINF:-1, 181FM Rock
+http://181fm.com/rock
+
+# Quebec Radio Stations
+#EXTINF:-1, Radio-Canada (French)
+http://radio-canada.ca/french
+#EXTINF:-1, CHOM 97.7 (Montreal)
+http://chom97.com/listen-live
+
+# Music Band Stations
+#EXTINF:-1, Rock Band Radio
+http://rockbandradio.com
+#EXTINF:-1, Jazz Band Radio
+http://jazzbandradio.com
+
+# iHeart Radio
+#EXTINF:-1, iHeart Radio - Top 40
+http://iheart.com/top40
+#EXTINF:-1, iHeart Radio - Classic Rock
+http://iheart.com/classicrock
+
+# Stingray Music
+#EXTINF:-1, Stingray Music - Classic Hits
+http://stingray.com/classichits
+#EXTINF:-1, Stingray Music - Contemporary
+http://stingray.com/contemporary
+
+# CBC Channels
+#EXTINF:-1, CBC Radio 1
+http://cbc.ca/radio1
+#EXTINF:-1, CBC Music
+http://cbc.ca/music
+
+# Global News
+#EXTINF:-1, Global News Channel
+http://globalnews.ca/live
+
+# Other Canadian TV Channels
+#EXTINF:-1, CTV
+http://ctv.ca/live
+#EXTINF:-1, Citytv
+http://citytv.com/live
