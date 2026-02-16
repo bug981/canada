@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz"
+
 #EXTINF:-1  tvg-name="ICI TÉLÉ QUÉBEC" tvg-id="CBVT.ca2" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" tvg-chno="49" group-title="📺 Canada Français",ICI TÉLÉ QUÉBEC
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_3000.m3u8
 #EXTINF:-1  tvg-name="ICI Télé EST-QUÉBEC" tvg-id="CJBR.ca2" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" tvg-chno="35" group-title="📺 Canada Français",ICI Télé EST-QUÉBEC
