@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1, Song Title 1
+path/to/song1.mp3
+#EXTINF:-1, Song Title 2
+path/to/song2.mp3
