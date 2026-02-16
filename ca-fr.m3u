@@ -1,29 +1,4 @@
-#EXTINF:-1  tvg-name="ICI TÉLÉ QUÉBEC" tvg-id="CBVT.ca2" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" tvg-chno="49" group-title="📺 CANADA FRANÇAIS",ICI TÉLÉ QUÉBEC
-https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_3000.m3u8
-#EXTINF:-1  tvg-name="ICI Télé EST-QUÉBEC" tvg-id="CJBR.ca2" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" tvg-chno="35" group-title="📺 CANADA FRANÇAIS",ICI Télé EST-QUÉBEC
-https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_3000.m3u8
-#EXTINF:-1  tvg-name="ICI TÉLÉ EST" tvg-id="CBLFT.ca2" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" tvg-chno="3" group-title="📺 CANADA FRANÇAIS",ICI TÉLÉ EST
-https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_3000.m3u8?Canada
-#EXTINF:-1  tvg-name="ICI TÉLÉ MONTRÉAL (1)" tvg-id="CBFT-DT.ca2" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" tvg-chno="42" group-title="📺 CANADA FRANÇAIS",ICI TÉLÉ MONTRÉAL (1)
-https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_3000.m3u8
-#EXTINF:-1  tvg-name="ICI TÉLÉ MONTRÉAL (2)" tvg-id="CBFT-DT.ca2" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" tvg-chno="43" group-title="📺 CANADA FRANÇAIS",ICI TÉLÉ MONTRÉAL (2)
-https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
-#EXTINF:-1  tvg-name="ICI TÉLÉ SAGUENAY" tvg-id="CKTV.ca2" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" tvg-chno="50" group-title="📺 CANADA FRANÇAIS",ICI TÉLÉ SAGUENAY
-https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_3000.m3u8
-#EXTINF:-1  tvg-name="ICI TÉLÉ MAURICIE" tvg-id="CKTM.ca2" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" tvg-chno="41" group-title="📺 CANADA FRANÇAIS",ICI TÉLÉ MAURICIE
-https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_3000.m3u8
-#EXTINF:-1  tvg-name="ICI TÉLÉ ESTRIE" tvg-id="CKSH.ca2" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" tvg-chno="37" group-title="📺 CANADA FRANÇAIS",ICI TÉLÉ ESTRIE
-https://rcavlive.akamaized.net/hls/live/704016/cancksh/master_3000.m3u8
-#EXTINF:-1  tvg-name="ICI TÉLÉ ONTARIO" tvg-id="CBLFT.ca2" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" tvg-chno="45" group-title="📺 CANADA FRANÇAIS",ICI TÉLÉ ONTARIO
-https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_3000.m3u8
-#EXTINF:-1  tvg-name="ICI TÉLÉ OTTAWA-GATINEAU" tvg-id="CBOFT-DT.ca2" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" tvg-chno="47" group-title="📺 CANADA FRANÇAIS",ICI TÉLÉ OTTAWA-GATINEAU
-https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_3000.m3u8
-#EXTINF:-1  tvg-name="ICI TÉLÉ ACADIE" tvg-id="CBAFT.ca2" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" tvg-chno="29" group-title="📺 CANADA FRANÇAIS",ICI TÉLÉ ACADIE
-https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_3000.m3u8
-#EXTINF:-1  tvg-name="ICI TÉLÉ ALBERTA" tvg-id="CBXFT.ca2" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" tvg-chno="31" group-title="📺 CANADA FRANÇAIS",ICI TÉLÉ ALBERTA
-https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_3000.m3u8
-#EXTINF:-1  tvg-name="ICI TÉLÉ MANITOBA" tvg-id="CBWFT.ca2" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" tvg-chno="39" group-title="📺 CANADA FRANÇAIS",ICI TÉLÉ MANITOBA
-https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master_3000.m3u8
+#EXTINF:-1  tvg-name="ICI TÉLÉ QUÉBEC" tvg-id="CBVT.ca
 #EXTINF:-1  tvg-name="ICI TÉLÉ SASKATCHEWAN" tvg-id="CBKFT.ca2" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" tvg-chno="51" group-title="📺 CANADA FRANÇAIS",ICI TÉLÉ SASKATCHEWAN
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_3000.m3u8
 #EXTINF:-1  tvg-name="ICI TÉLÉ CB-YUKON" tvg-id="CBUFT.ca2" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" tvg-chno="33" group-title="📺 CANADA FRANÇAIS",ICI TÉLÉ CB-YUKON
