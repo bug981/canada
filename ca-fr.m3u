@@ -155,4 +155,6 @@ https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1  tvg-name="OlYMPIC CHANNEL" tvg-id="Local.Programming.(Generic).(CATV-90).ca" tvg-logo="https://cartt.ca/wp-content/uploads/2020/07/olympic-channel.png" tvg-chno="215" group-title="📺 CANADA ENGLISH",OLYPIC CHANNEL
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_1.m3u8
+#EXTINF:-1 tvg-id="CHCO TV" tvg-name="CHCO TV" "📺 CANADA ENGLISH",CHCO TV
+https://temp2.isilive.ca/live/CHCOTV/live/chunklist.m3u8
 
