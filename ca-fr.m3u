@@ -64,7 +64,7 @@ https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/chunklist.m3u8
 #EXTINF:-1  tvg-name="ONTARIO OLA NETWORK FR" tvg-id="Local.Programming.(Generic).(CATV-90).ca" tvg-logo="https://od.lk/s/MF8yMjQyNTQ4Njhf/OntParl_450x450.png" tvg-chno="58" group-title="📺 CANADA FRANÇAIS",ONTARIO OLA NETWORK FR
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
 #EXTINF:-1  tvg-name="CPAC FR" tvg-id="[CPACF].Cable.Public.Affairs.Channel.(French).ca2" tvg-logo="https://i.imgur.com/5ym6eJS.png" tvg-chno="59" group-title="📺 CANADA FRANÇAIS",CPAC FR
-https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+https://cpac-ca-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1  tvg-name="ICI TÉLÉVISION" tvg-id="ICI.Television.HDTV.(ICIHD).ca" tvg-logo="http://icitelevision.ca/wp-content/uploads/2017/10/logoretina.png" tvg-chno="25" group-title="📺 CANADA FRANÇAIS",ICI TÉLÉVISION
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1  tvg-name="CBC KIDS" tvg-logo="https://logodix.com/logo/251501.png" tvg-chno="198" group-title="📺 CANADA ENGLISH",CBC KIDS
