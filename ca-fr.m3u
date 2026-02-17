@@ -127,18 +127,22 @@ https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b
 https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8
 #EXTINF:-1  tvg-name="GLOBAL NEWS WINNIPEG" tvg-id="Information.Channel.(Generic).(INFO).ca" tvg-logo="https://cutric-crituc.org/wp-content/uploads/2020/02/Global-News-Logo-640x640.png" tvg-chno="228" group-title="📺 CANADA ENGLISH",GLOBAL NEWS WINNIPEG
 https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
+#EXTINF:-1  tvg-name="CABLE-14 HAMILTON" tvg-id="Cable14Hamilton.ca" tvg-logo="https://i.imgur.com/bJ7ygTq.png" group-title="📺 CANADA ENGLISH",CABLE-14 HAMILTON
+https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720
 #EXTINF:-1  tvg-name="ROGERS TV OTTAWA" tvg-id="Information.Channel.(Generic).(INFO).ca" tvg-logo="https://scontent-yyz1-1.xx.fbcdn.net/v/t1.18169-9/993551_1133062010058978_7384037937518348103_n.png?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=maduZfN87XAAX_ze1yy&_nc_ht=scontent-yyz1-1.xx&oh=00_AfAjqpuPM5wZVwiTJeXHuG234ysegrXKSEzxrAbwquZ1Ag&oe=6454FEE5" tvg-chno="230" group-title="📺 CANADA ENGLISH",ROGERS TV OTTAWA
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m31_card3/chunklist.m3u8
 #EXTINF:-1  tvg-name="ROGERS TV MONCTON" tvg-id="Information.Channel.(Generic).(INFO).ca" tvg-logo="https://scontent-yyz1-1.xx.fbcdn.net/v/t1.18169-9/993551_1133062010058978_7384037937518348103_n.png?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=maduZfN87XAAX_ze1yy&_nc_ht=scontent-yyz1-1.xx&oh=00_AfAjqpuPM5wZVwiTJeXHuG234ysegrXKSEzxrAbwquZ1Ag&oe=6454FEE5" tvg-chno="229" group-title="📺 CANADA ENGLISH",ROGERS TV MONCTON
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m28_card2/chunklist.m3u8
 #EXTINF:-1  tvg-name="NTV NEWFOUNDLAND" tvg-id="Newfoundland.Television.HDTV.(NTVHD).ca" tvg-logo="https://s3.ca-central-1.amazonaws.com/res.ntv.ca/NTV/DESIGNS/NTVCanadasSuperStation.png" tvg-chno="235" group-title="📺 CANADA ENGLISH",NTV NEWFOUNDLAND
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
-#EXTINF:-1  tvg-name="CTV LIVE (720p)" tvg-id="Local.Programming.(Generic).(CATV-90).ca" tvg-logo="https://www.videotron.com/resources/global/images/chaines/ctv.jpg" tvg-chno="231" group-title="📺 CANADA ENGLISH",CTV LIVE (720p)
-https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
 #EXTINF:-1  tvg-name="CITY NEWS TORONTO 24/7 " tvg-id="Local.Programming.(Generic).(CATV-90).ca" tvg-logo="https://tdsa.ca/wp-content/uploads/2018/02/city-news.jpg" tvg-chno="232" group-title="📺 CANADA ENGLISH",CITY NEWS TORONTO 24/7
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+#EXTINF:-1  tvg-name="LOVE NATURE" tvg-id="LoveNature.ca" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="📺 CANADA ENGLISH",LOVE NATURE
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1  tvg-name="KNOWLEDGE NETWORK HD" tvg-id="Knowledge.Network.(KNOW).ca" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/022011/knowledgelogo.png" tvg-chno="233" group-title="📺 CANADA ENGLISH",KNOWLEDGE NETWORK HD
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
+#EXTINF:-1  tvg-name="GUSTO TV" tvg-id="GustoTV.ca" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698936bac4421ebc533684/images/logo_20231219_202519_56.png" group-title="📺 CANADA ENGLISH",GUSTO TV
+https://563f72af.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/playlist.m3u8
 #EXTINF:-1  tvg-name="THE SHOPPING CHANNEL" tvg-id="Local.Programming.(Generic).(CATV-90).ca" tvg-logo="https://www.alikefinder.com/wp-content/uploads/2020/02/the-shopping-channel.png" tvg-chno="234" group-title="📺 CANADA ENGLISH",THE SHOPPING CHANNEL
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1  tvg-name="EWTN CANADA" tvg-id="Local.Programming.(Generic).(CATV-90).ca" tvg-logo="https://www.rapidcitydiocese.org/wp-content/uploads/2020/03/ewtn-logo.jpg" tvg-chno="236" group-title="📺 CANADA ENGLISH",EWTN CANADA
@@ -153,8 +157,7 @@ https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d7
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1  tvg-name="CPAC TV" tvg-id="CPAC.English.HD.(CPACH).ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/CPAC_anglais.png" tvg-chno="241" group-title="📺 CANADA ENGLISH",CPAC TV
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
-#EXTINF:-1  tvg-name="OlYMPIC CHANNEL" tvg-id="Local.Programming.(Generic).(CATV-90).ca" tvg-logo="https://cartt.ca/wp-content/uploads/2020/07/olympic-channel.png" tvg-chno="215" group-title="📺 CANADA ENGLISH",OLYPIC CHANNEL
+#EXTINF:-1  tvg-name="HARD KNOCKS" tvg-id="HardKnocks.ca" tvg-logo="https://i.imgur.com/nt9B6jx.png" group-title="📺 SPORTS",HARD KNOCKS
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
+#EXTINF:-1  tvg-name="OlYMPIC CHANNEL" tvg-id="Local.Programming.(Generic).(CATV-90).ca" tvg-logo="https://cartt.ca/wp-content/uploads/2020/07/olympic-channel.png" tvg-chno="215",OLY
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_1.m3u8
-#EXTINF:-1 tvg-id="CHCO TV.ca@SD",CHCO-TV 
-https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
-
