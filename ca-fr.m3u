@@ -49,12 +49,16 @@ https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1  tvg-name="LCN" tvg-id="Le.Canal.Nouvelles.TVA.HD.ca2" tvg-logo="https://i.imgur.com/JHOyrgA.png" tvg-chno="9" group-title="📺 CANADA FRANÇAIS",LCN HD*
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
+#EXTINF:-1  tvg-name="RT FRANCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png" group-title="📺 CANADA FRANÇAIS",RT FRANCE
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1  tvg-name="CANAL SAVOIR" tvg-id="Savoir.média.ca2" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/Canal-Savoir.png" tvg-chno="7" group-title="📺 CANADA FRANÇAIS",CANAL SAVOIR*
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1  tvg-name="TÉLÉMAG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/CHMG_TV.svg/300px-CHMG_TV.svg.png" tvg-chno="23" group-title="📺 CANADA FRANÇAIS",TÉLÉMAG*
 https://web-cdn.sogetel.net:8443/CLTMAG/CLTMAG.m3u8
 #EXTINF:-1  tvg-name="MHZ" tvg-id="MHZ.ca" tvg-logo="https://i.imgur.com/a5fw83n.jpg" group-title="📺 CANADA FRANÇAIS",MHZ*
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="SOUTH PARK" group-title="📺 CANADA FRANÇAIS",SOUTH PARK
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb919d36cbd0007e6ab8a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0254-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3779233e-781d-466c-a70d-0dbdb22e3f67&serverSideAds=false&checkedby:iptvcat.com
 #EXTINF:-1  tvg-name="ROGERS TV OTTAWA FR" tvg-id="Local.Programming.(Generic).(CATV-90).ca" tvg-logo="https://scontent-yyz1-1.xx.fbcdn.net/v/t1.18169-9/993551_1133062010058978_7384037937518348103_n.png?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=maduZfN87XAAX_ze1yy&_nc_ht=scontent-yyz1-1.xx&oh=00_AfAjqpuPM5wZVwiTJeXHuG234ysegrXKSEzxrAbwquZ1Ag&oe=6454FEE5" tvg-chno="56" group-title="📺 CANADA FRANÇAIS",ROGERS TV OTTAWA FR*
 https://livedrm.akamaized.net/hls/live/1021686/rtv/m31_card4/chunklist.m3u8
 #EXTINF:-1  tvg-name="ROGERS TV EDMUNDSTON FR" tvg-id="Local.Programming.(Generic).(CATV-90).ca" tvg-logo="https://scontent-yyz1-1.xx.fbcdn.net/v/t1.18169-9/993551_1133062010058978_7384037937518348103_n.png?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=maduZfN87XAAX_ze1yy&_nc_ht=scontent-yyz1-1.xx&oh=00_AfAjqpuPM5wZVwiTJeXHuG234ysegrXKSEzxrAbwquZ1Ag&oe=6454FEE5" tvg-chno="55" group-title="📺 CANADA FRANÇAIS",ROGERS TV EDMUNDSTON FR*
@@ -185,13 +189,3 @@ https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:-1  tvg-name="OlYMPIC CHANNEL" tvg-id="Local.Programming.(Generic).(CATV-90).ca" tvg-logo="https://cartt.ca/wp-content/uploads/2020/07/olympic-channel.png" tvg-chno="215" group-title="📺 SPORTS",OLYMPIC CHANNEL
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_1.m3u8
-#EXTINF:-1  tvg-name="ALERTE A MALIBU" group-title="📺 CANADA FRANÇAIS",ALERTE A MALIBU
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e90db65e8e770007382a50/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c791c21-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c070d939-44e0-419b-b958-d26935b903d0&checkedby:iptvcat.com
-#EXTINF:-1  tvg-name="DORA TV" group-title="📺 CANADA FRANÇAIS",DORA TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb9baa9dddb0007f39e41/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0688-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d825e077-4dd8-47f8-bea3-c535753493bf&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:-1  tvg-name="LES NOUVEAUX DÉTECTIVES" group-title="📺 CANADA FRANÇAIS",LES NOUVEAUX DÉTECTIVES
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e927821054990007dc8e57/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7af0e1-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e4bec35f-4c36-4190-8c17-92c830ebf71a&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:-1  tvg-name="RT FRANCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png" group-title="📺 CANADA FRANÇAIS",RT FRANCE
-https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1  tvg-name="SOUTH PARK" group-title="📺 CANADA FRANÇAIS",SOUTH PARK
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb919d36cbd0007e6ab8a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0254-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3779233e-781d-466c-a70d-0dbdb22e3f67&serverSideAds=false&checkedby:iptvcat.com
