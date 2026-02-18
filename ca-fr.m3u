@@ -181,18 +181,21 @@ https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d7
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1  tvg-name="CPAC TV" tvg-id="CPAC.English.HD.(CPACH).ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/CPAC_anglais.png" tvg-chno="241" group-title="📺 CANADA ENGLISH",CPAC TV
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1  tvg-name="ZEN!TH" tvg-id="zenith.fr" tvg-logo="https://znth.tv/static/site_app/thy%20logo.svg" group-title="📺 FRANCE",ZEN!TH
+https://srv.zenith-tv.fr:8888/zenithwchl/main_stream.m3u8
+#EXTINF:-1  tvg-name="SONY ONE SERIES THRILLER" tvg-id="SonyOneSeriesThriller.fr" tvg-logo="https://i.imgur.com/RVS8LDj.png",Sony One Series Thriller
+https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
+#EXTINF:-1  tvg-name="SONY ONE SERIES COMEDIE" tvg-id="SonyOneSeriesComedie.fr" tvg-logo="https://i.ibb.co/ns4Md77B/FR-FAST-Plex-Comedy-TV-logo-dark.png" group-title="📺 FRANCE",SONY SERIES ONE COMEDIE
+https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8
+#EXTINF:-1  tvg-name="SONY ONE BLACKLIST" tvg-id="SonyOneBlacklist.fr" tvg-logo="https://i.imgur.com/uJC8rXr.png" group-title="📺 FRANCE",SONY ONE BLACKLIST
+https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
 #EXTINF:-1  tvg-name="GAME+" tvg-id="GamePlus.ca" tvg-logo="https://i.imgur.com/Lj69WbR.png" group-title="📺 SPORTS",GAME+
 https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 #EXTINF:-1  tvg-name="HARD KNOCKS" tvg-id="HardKnocks.ca" tvg-logo="https://i.imgur.com/nt9B6jx.png" group-title="📺 SPORTS",HARD KNOCKS
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
 #EXTINF:-1  tvg-name="TSN THE OCHO" tvg-id="TSNTheOcho.ca" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="📺 SPORTS",TSN THE OCHO
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+#EXTINF:-1  tvg-name="KOZOOM TV" tvg-id="KozoomTV.fr" tvg-logo="https://i.imgur.com/M1Ee79b.png" group-title="📺 SPORTS",KOZOOM TV
+ 
 #EXTINF:-1  tvg-name="OlYMPIC CHANNEL" tvg-id="Local.Programming.(Generic).(CATV-90).ca" tvg-logo="https://cartt.ca/wp-content/uploads/2020/07/olympic-channel.png" tvg-chno="215" group-title="📺 SPORTS",OLYMPIC CHANNEL
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_1.m3u8
-#EXTINF:-1 tvg-id="SonyOneSeriesThriller.fr" tvg-name="SONY ONE SERIES THRILLER" tvg-logo="https://i.imgur.com/RVS8LDj.png" group-title="📺 FRANCE",Sony One Series Thriller
-https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyOneSeriesComedie.fr" tvg-name="SONY ONE SERIES COMEDIE" tvg-logo="https://i.ibb.co/ns4Md77B/FR-FAST-Plex-Comedy-TV-logo-dark.png" group-title="📺 FRANCE",SONY SERIES ONE COMEDIE
-https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyOneBlacklist.fr" tvg-name="SONY ONE BLACKLIST" tvg-logo="https://i.imgur.com/uJC8rXr.png" group-title="📺 FRANCE",SONY ONE BLACKLIST
-https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
-
