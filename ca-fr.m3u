@@ -75,11 +75,21 @@ https://cpac-ca-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1  tvg-name="ZEN!TH" tvg-id="zenith.fr" tvg-logo="https://znth.tv/static/site_app/thy%20logo.svg" group-title="📺 FRANCE",ZEN!TH
 https://srv.zenith-tv.fr:8888/zenithwchl/main_stream.m3u8
-#EXTINF:-1  tvg-name="SONY ONE SERIES THRILLER" tvg-id="SonyOneSeriesThriller.fr" tvg-logo="https://i.imgur.com/RVS8LDj.png",Sony One Series Thriller
+#EXTINF:-1  tvg-name="CARAC -1-" tvg-id="Carac1.ch@SD" tvg-logo="https://i.imgur.com/TSc35U6.png" group-title="📺 FRANCE",CARAC -1-
+https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
+#EXTINF:-1  tvg-name="CARAC -2-" tvg-id="Carac2.ch@SD" tvg-logo="https://i.imgur.com/hCoIPen.png" group-title="📺 FRANCE",CARAC -2-
+https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
+#EXTINF:-1  tvg-name="CARAC -3-" tvg-id="Carac3.ch@SD" tvg-logo="https://i.imgur.com/C4e8cjt.png" group-title="📺 FRANCE",CARAC -3-
+https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
+#EXTINF:-1  tvg-name="CARAC -4-" tvg-id="Carac4.ch@SD" tvg-logo="https://i.imgur.com/Dj5LPy3.png" group-title="📺 FRANCE",CARAC -4-
+https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
+#EXTINF:-1  tvg-name="CARAC -5-" tvg-id="Carac5.ch@HD" tvg-logo="https://i.imgur.com/giDfku4.png" group-title="📺 FRANCE",CARAC -5-
+https://edge13.vedge.infomaniak.com/livecast/ik:carac5/chunklist_w390951106_b3001080.m3u8?spark=b3c89a6c-9b34-4ea7-bc31-5d48acf12b76&token=
+#EXTINF:-1  tvg-name="SONY ONE SERIES THRILLER" tvg-id="SonyOneSeriesThriller.fr" tvg-logo="https://i.imgur.com/RVS8LDj.png" group-title="📺 FRANCE",SONY ONE THRILLER
 https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
 #EXTINF:-1  tvg-name="SONY ONE SERIES COMEDIE" tvg-id="SonyOneSeriesComedie.fr" tvg-logo="https://i.ibb.co/ns4Md77B/FR-FAST-Plex-Comedy-TV-logo-dark.png" group-title="📺 FRANCE",SONY SERIES ONE COMEDIE
 https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8
-#EXTINF:-1  tvg-name="SONY ONE BLACKLIST" tvg-id="SonyOneBlacklist.fr" tvg-logo="https://i.imgur.com/uJC8rXr.png" group-title="📺 FRANCE",SONY ONE BLACKLIST
+#EXTINF:-1  tvg-name="SONY ONE SERIES BLACKLIST" tvg-id="SonyOneBlacklist.fr" tvg-logo="https://i.imgur.com/uJC8rXr.png" group-title="📺 FRANCE",SONY ONE BLACKLIST
 https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
 #EXTINF:-1  tvg-name="CBC KIDS" tvg-logo="https://logodix.com/logo/251501.png" tvg-chno="198" group-title="📺 CANADA ENGLISH",CBC KIDS
 https://amagi-streams.akamaized.net/hls/live/2120483/cbckids/master1080p.m3u8
@@ -199,5 +209,5 @@ https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8?ads.vf=gPEEXzG-WvO
 #EXTINF:-1  tvg-name="OlYMPIC CHANNEL" tvg-id="Local.Programming.(Generic).(CATV-90).ca" tvg-logo="https://cartt.ca/wp-content/uploads/2020/07/olympic-channel.png" tvg-chno="215" group-title="📺 SPORTS",OLYMPIC CHANNEL
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_1.m3u8
-#EXTINF:-1  tvg-name="TRAILER PARK BOYS" tvg-id="https://www.pngwing.com/en/free-png-dexmh" tvg-logo="https://www.pngwing.com/en/free-png-dexmh" tvg-chno="241" group-title="📺 TEST CHANNEL",TRAILER PARK BOYS (TEST)
+#EXTINF:-1  tvg-name="TRAILER PARK BOYS" tvg-id="CPAC.English.HD.(CPACH).ca" tvg-logo="https://www.pngwing.com/en/free-png-dexmh" tvg-chno="241" group-title="📺 TEST CHANNEL",TRAILER PARK BOYS (TEST)
 https://use23.playlist.ttvnw.net/v1/playlist/CsAHYzLkogzFPjfl5Q1y7-vUlzq5bnuCRIx42rpHEdYCMR0fvNFRIWAXU6CKwyXqwabuf9AMA8LccDIe3Y5JDqZ4V16OpT5E5PuZmCmAKpCxEw94IoYRh2i9YxKwA6hICuYTT3dKlJR41wtn_zE9hzzIe2lOmYjDKUmCXck4ZC1BOzg4Mg2v3HrwC0KNjmZjDTEK1gXdB-QemGeTLTYQCv4jVbUM8RtMdhm0ID6ey8Tmc6qkwZj2mPnpR1CFL-bhiH7L3qkXxsmV2c_5VDfNIyQfUjmzACs4QJqctz9HOpIWXF2xkLEjM2L63B10hVMPDkYS4u7n5LKOSZb0FusDcgqRBGbE1x8hykwhSf1qCXMY5EqnIu6za5hWwX7yP81jSjM2xp3XtJCx9f7M-kXgY-a7Y1Y0RwWwNehEwkC9z884Hhs6uQHtjwdJLptJUjMvaN7KpXzONtrhd-YVnu-V5vPnxjz-H0X6SvzozCBMKkRc9iNRVNhFBAKpU932RWBWLBrTbVcqasIAuAxT7MwSOIxXucrBBrWY8wmo4Jk25yAMcMx7fsPm2BQ5v81-R43RFQMxxTm-xaxdW9LZ-KQ4lPfEihfNPEt-A4MfSTKuo8GTH5RLA8mP2srRdEYjPwWWVPQjsABHf5ZBpNbd6fchFAL4AgNJ1XQqyO4hLCbYzLupErs-Dp29XvxcQnTqlsPIrImzR4OlnAI2p_xbxJRfU8-nc9VJfPYvlSiB1T5EHCnWVbpn_hRSfKySgBILDqoeIbm5EIDVQyupZZugPZ4MHBN1UemFOpP2U0rQTRFIuM4SCYEMYxeCjTsD4yihHLw7DlvnHXU5yOrYq1RVR5H2lKsYjoB5grd40SXY2zf9a2fcFUEtOWEbvr4uBLcf3DQwK235x5wx4zwZKuDavQNHlj_UP2pXfmIxW5CT9em3E5eI-Ah948LUwa7txGie6iwQ5lbQJsrNLOsHewKZkSNiZT3PeOrGBUp73fJleRFxYJ6BdLQ3iSy3rK_3QBg1fLMdercPMAtqsIoDMXiTiLCchpMiz0JO7kXXzPpits-AHIxpWaQ6kwaWyW4hgBCDBfl8z4AMhmcSkWEZVVx3ggEWYj3pP8hU7McpuMfBDcWdT96dRxwakIHX7U2NsS54jnkrCpskVqntu_tRydpXT_P9663kznBdCEtR0NKKJEY_Tz2w8iEBh7MYTMV7a0qGjo7Q3z52HWTebEtCidQV2P0tde8Mb9qSzVaHAl80T96ZjqiSAfSJKX2O9oyV0VURpg1HKTyqGgylwyuwSIE686EBraEgASoJdXMtZWFzdC0yMLsO.m3u8
