@@ -77,15 +77,15 @@ https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 https://use11.playlist.ttvnw.net/v1/playlist/CvMGCfC6jPIZRxtmSdK6Rqh0DYDhggLpNayQpOawrMc4nJ8kmMB8b28OR08j1ivjlD6t0W41f1cCC0pzfq3czOky0FSdNs-6GoY2HaojLtdTsEhWbwtXxPrCG9PqAyHu316-yUYKwfH7Mx808EFDFJm8-U_qArp-SG8FLgjh-uw5xOVtJV-O3J7fwiaZMkMwBBnvEZ8F9JXQ8UmIlHjrTbQGRYlGpMkkN5nF8c1GmKx4xGP4kdgWBmGpDzyhXsEDYDRxCKX_d0FGdQRlhxj-xFqAQiEvAT7z0XlmCKtignrvNcyWXrIi-T-Oreis9ejZE8jOnSk6KLg1BrrsoybT-HnOkYwdtVFn0OD1oP1SPdynCNpIb1GVcUmvPLnuZ-zF69TS48wRHg31WCkzP7smrqbjaQTzQicFA21VwlBeznpLn30OOTRfbJAX-9Mzu_BbI8Lt5yZvlV8Bkv23DBSDvnVDCToC3VQneVqNKboIUV0NUGTufHDVE2qXSnuK8UIy6tXpjWit52GaRQWsMiQ3SaxF-PSWe7thXXi_41a3gKdzolScH5dwthBwOWuF33f-4L0GuSmmWjiL5fUK_ggF6-rO5zAAUcKTaTdS6ukaT7FnMJR5ESDJrHjNloBgCLpRlrig73Fhd_r0w5RXy5YTvFG4nGOGRPb5qORhmw7zM2o0bhUjnCWg-iJ27TXQw7aBP8IwXekChf4rp6sywYpWa56GfjevfroquNJGAvuXgOhi9_qAvu0SHIByjSjx5YIJNglAgYiPb7mgse4b8r1uu4QXvIfBWSyC_xAlCwySGjH1P2a1lmT0e7H0h1F7S7ucGngt3XSeaLl90tNYocPAQtJlRrbKTiMQ0AAIpzCuqPQm4VwhWLuXgar8hmk3vPO3sLzzxrdF_u0260Iy_xmxnpKf64vZQQhP7F7bSCcgedkbs4PwiYFBSGdPanTq3nyfPUveqWdvmOaKzaUIxPvnCe6AERmCMOqEt1uDqcGxF9hZtOcQ-2Q8Zwk0f2_f_OyS0VEPQaiSKX6J-ddueWU-buOVsFoJuu3mid6A_2Vpgs1novbj1QkD8xacyS1jfl0poqozPU_zJTmUyDHvEfJke0Awd3n9o5wItRUMCElQsgfTGsoOv0jG0Hda9YzcT7d_D37Eak0H-lGxORv7LvnO6ZLLVzrIBRoMc6xJ37O7vdXq1DfVIAEqCXVzLWVhc3QtMjC9Dg.m3u8
 #EXTINF:-1  tvg-name="ZEN!TH" tvg-id="zenith.fr" tvg-logo="https://znth.tv/static/site_app/thy%20logo.svg" group-title="📺 FRANCE",ZEN!TH
 https://srv.zenith-tv.fr:8888/zenithwchl/main_stream.m3u8
-#EXTINF:-1 tvg-id="Carac1.ch@SD" tvg-logo="https://i.imgur.com/TSc35U6.png" group-title="📺 FRANCE",CARAC 1 
+#EXTINF:-1  tvg-id="Carac1.ch@SD" tvg-logo="https://i.imgur.com/TSc35U6.png" group-title="📺 FRANCE",CARAC 1
 https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
-#EXTINF:-1 tvg-id="Carac2.ch@SD" tvg-logo="https://i.imgur.com/hCoIPen.png" group-title="📺 FRANCE",CARAC 2 
+#EXTINF:-1  tvg-id="Carac2.ch@SD" tvg-logo="https://i.imgur.com/hCoIPen.png" group-title="📺 FRANCE",CARAC 2
 https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
-#EXTINF:-1 tvg-id="Carac3.ch@SD" tvg-logo="https://i.imgur.com/C4e8cjt.png" group-title="📺 FRANCE",CARAC 3 
+#EXTINF:-1  tvg-id="Carac3.ch@SD" tvg-logo="https://i.imgur.com/C4e8cjt.png" group-title="📺 FRANCE",CARAC 3
 https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
-#EXTINF:-1 tvg-id="Carac4.ch@SD" tvg-logo="https://i.imgur.com/Dj5LPy3.png" group-title="📺 FRANCE",CARAC 4 
+#EXTINF:-1  tvg-id="Carac4.ch@SD" tvg-logo="https://i.imgur.com/Dj5LPy3.png" group-title="📺 FRANCE",CARAC 4
 https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
-#EXTINF:-1 tvg-id="Carac5.ch@HD" tvg-logo="https://i.imgur.com/giDfku4.png" group-title="📺 FRANCE",CARAC 5 
+#EXTINF:-1  tvg-id="Carac5.ch@HD" tvg-logo="https://i.imgur.com/giDfku4.png" group-title="📺 FRANCE",CARAC 5
 https://edge13.vedge.infomaniak.com/livecast/ik:carac5/chunklist_w390951106_b3001080.m3u8?spark=b3c89a6c-9b34-4ea7-bc31-5d48acf12b76&token=
 #EXTINF:-1  tvg-name="SONY ONE SERIES THRILLER" tvg-id="SonyOneSeriesThriller.fr" tvg-logo="https://i.imgur.com/RVS8LDj.png" group-title="📺 FRANCE",SONY ONE THRILLER
 https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
@@ -213,3 +213,321 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_1.m3u8
 #EXTINF:-1  tvg-name="TRAILER PARK BOYS" tvg-id="CPAC.English.HD.(CPACH).ca" tvg-logo="https://www.pngwing.com/en/free-png-dexmh" tvg-chno="241" group-title="📺 TEST CHANNEL",TRAILER PARK BOYS (TEST)
 https://use11.playlist.ttvnw.net/v1/playlist/CvMGCfC6jPIZRxtmSdK6Rqh0DYDhggLpNayQpOawrMc4nJ8kmMB8b28OR08j1ivjlD6t0W41f1cCC0pzfq3czOky0FSdNs-6GoY2HaojLtdTsEhWbwtXxPrCG9PqAyHu316-yUYKwfH7Mx808EFDFJm8-U_qArp-SG8FLgjh-uw5xOVtJV-O3J7fwiaZMkMwBBnvEZ8F9JXQ8UmIlHjrTbQGRYlGpMkkN5nF8c1GmKx4xGP4kdgWBmGpDzyhXsEDYDRxCKX_d0FGdQRlhxj-xFqAQiEvAT7z0XlmCKtignrvNcyWXrIi-T-Oreis9ejZE8jOnSk6KLg1BrrsoybT-HnOkYwdtVFn0OD1oP1SPdynCNpIb1GVcUmvPLnuZ-zF69TS48wRHg31WCkzP7smrqbjaQTzQicFA21VwlBeznpLn30OOTRfbJAX-9Mzu_BbI8Lt5yZvlV8Bkv23DBSDvnVDCToC3VQneVqNKboIUV0NUGTufHDVE2qXSnuK8UIy6tXpjWit52GaRQWsMiQ3SaxF-PSWe7thXXi_41a3gKdzolScH5dwthBwOWuF33f-4L0GuSmmWjiL5fUK_ggF6-rO5zAAUcKTaTdS6ukaT7FnMJR5ESDJrHjNloBgCLpRlrig73Fhd_r0w5RXy5YTvFG4nGOGRPb5qORhmw7zM2o0bhUjnCWg-iJ27TXQw7aBP8IwXekChf4rp6sywYpWa56GfjevfroquNJGAvuXgOhi9_qAvu0SHIByjSjx5YIJNglAgYiPb7mgse4b8r1uu4QXvIfBWSyC_xAlCwySGjH1P2a1lmT0e7H0h1F7S7ucGngt3XSeaLl90tNYocPAQtJlRrbKTiMQ0AAIpzCuqPQm4VwhWLuXgar8hmk3vPO3sLzzxrdF_u0260Iy_xmxnpKf64vZQQhP7F7bSCcgedkbs4PwiYFBSGdPanTq3nyfPUveqWdvmOaKzaUIxPvnCe6AERmCMOqEt1uDqcGxF9hZtOcQ-2Q8Zwk0f2_f_OyS0VEPQaiSKX6J-ddueWU-buOVsFoJuu3mid6A_2Vpgs1novbj1QkD8xacyS1jfl0poqozPU_zJTmUyDHvEfJke0Awd3n9o5wItRUMCElQsgfTGsoOv0jG0Hda9YzcT7d_D37Eak0H-lGxORv7LvnO6ZLLVzrIBRoMc6xJ37O7vdXq1DfVIAEqCXVzLWVhc3QtMjC9Dg.m3u8
+#EXTINF:-1  tvg-name="Radio Pirate" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://image.radioking.io/radios/497272/coverdefault/30163b69-418d-4455-bec5-178f430c2820.png" tvg-chno="100" group-title="📻 Radio Québécoise",Radio Pirate
+https://listen.radioking.com/radio/497272/stream/554380
+#EXTINF:-1  tvg-name="CHOI 981 Radio X" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/s12492/images/logod.png?t=1" tvg-chno="101" group-title="📻 Radio Québécoise",CHOI 981 Radio X
+http://stream2.radiox.com:80/choi.aac
+#EXTINF:-1  tvg-name="KYK 95.7  Radio X" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/s3056/images/logod.png" tvg-chno="102" group-title="📻 Radio Québécoise",KYK 95.7  Radio X
+https://18493.live.streamtheworld.com/CKYKFMAAC.aac
+#EXTINF:-1  tvg-name="98.5 fm (Montréal)" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c5/Logo_985_saison_2021.png" tvg-chno="103" group-title="📻 Radio Québécoise",98.5 fm (Montréal)
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC_SC.aac
+#EXTINF:-1  tvg-name="QUB radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/mktdmngxusha.png" tvg-chno="104" group-title="📻 Radio Québécoise",QUB radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC.aac
+#EXTINF:-1  tvg-name="ICI Première" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://www.programmes-radio.com/img/radio/page/ici_premiere.png" tvg-chno="105" group-title="📻 Radio Québécoise",ICI Première
+https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
+#EXTINF:-1  tvg-name="Cool FM 103.5 Beauce" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/9dpjMfa78W.png" tvg-chno="106" group-title="📻 Radio Québécoise",Cool FM 103.5 Beauce
+https://stream.statsradio.com:8040/stream
+#EXTINF:-1  tvg-name="FM93" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/s7732/images/logod.jpg" tvg-chno="107" group-title="📻 Radio Québécoise",FM93
+https://18313.live.streamtheworld.com/CJMFFMAAC.aac
+#EXTINF:-1  tvg-name="Radio Unicité" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://image.radioking.io/radios/521287/logo/17194d0c-d82c-4161-8f34-a3803e0f210e.png" tvg-chno="108" group-title="📻 Radio Québécoise",Radio Unicité
+https://listen.radioking.com/radio/521287/stream/579484
+#EXTINF:-1  tvg-name="CNV" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="http://cnv.ca/CNV-LecteurAudio%20copy.png" tvg-chno="109" group-title="📻 Radio Québécoise",CNV
+https://centova.radioservers.biz/proxy/cnvnicol/stream
+#EXTINF:-1  tvg-name="BLVD 102.1" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://www.blvd.fm/img/logoBLVD.png" tvg-chno="110" group-title="📻 Radio Québécoise",BLVD 102.1
+https://stream-cfel-rr01.leclerccom.com/cfel.aac
+#EXTINF:-1  tvg-name="ICI Musique" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://www.radios-quebecoises.com/wp-content/uploads/2020/01/logo-ici-musique-100-9-fm-saguenay-en-direct.png" tvg-chno="111" group-title="📻 Radio Québécoise",ICI Musique
+https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/playlist.m3u8
+#EXTINF:-1  tvg-name="IROCK 247" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="http://www.irock247.com/uploads/1/1/2/4/112474927/logo-font2_2_orig.jpg" tvg-chno="112" group-title="📻 Radio Québécoise",IROCK 247
+https://streamer.radio.co/s493283a7e/listen
+#EXTINF:-1  tvg-name="CKOI 96.9" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24774d.png" tvg-chno="113" group-title="📻 Radio Québécoise",CKOI 96.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKOIFMAAC_SC.aac
+#EXTINF:-1  tvg-name="CNV Succès Absolus" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="http://cnv.ca/CNV-LecteurAudio%20copy.png" tvg-chno="115" group-title="📻 Radio Québécoise",CNV Succès Absolus
+https://centova.radioservers.biz/proxy/cnv4/stream
+#EXTINF:-1  tvg-name="CHOM 97.7" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/s31168/images/logod.png?t=160441" tvg-chno="116" group-title="📻 Radio Québécoise",CHOM 97.7
+https://14133.live.streamtheworld.com/CHOMFMAAC.aac
+#EXTINF:-1  tvg-name="Radio Gaspésie 94.5" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://www.radiogaspesie.ca/wp-content/uploads/radio_couleur_2016-1.png" tvg-chno="117" group-title="📻 Radio Québécoise",Radio Gaspésie 94.5
+http://stream02.ustream.ca:8000/cjrg128.mp3
+#EXTINF:-1  tvg-name="CJMS Rock" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://www.cjms.ca/assets/cjms_rock.png" tvg-chno="118" group-title="📻 Radio Québécoise",CJMS Rock
+https://cjms.ca:8002/cjmsrock2
+#EXTINF:-1  tvg-name="CJMS Country" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://www.cjms.ca/assets/cjms_country.png" tvg-chno="119" group-title="📻 Radio Québécoise",CJMS Country
+https://cjms.ca:8002/stream
+#EXTINF:-1  tvg-name="CJMS Pop" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://www.cjms.ca/assets/cjms_pop.png" tvg-chno="120" group-title="📻 Radio Québécoise",CJMS Pop
+https://cjms.ca:8002/cjmspop
+#EXTINF:-1  tvg-name="WKnd 91.9  Québec" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="http://quebec.wknd.fm/img/logo-wknd.png" tvg-chno="122" group-title="📻 Radio Québécoise",WKnd 91.9  Québec
+https://stream-cjec-rr01.leclerccom.com/cjec.mp3
+#EXTINF:-1  tvg-name="Énergie Quebec 98.9" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://i.imgur.com/QFY9hWE.png" tvg-chno="131" group-title="📻 Radio Québécoise",Énergie Quebec 98.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHIKFMAAC_SC.aac
+#EXTINF:-1  tvg-name="Énergie Montreal 94.3" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://i.imgur.com/rgCQgKo.png" tvg-chno="130" group-title="📻 Radio Québécoise",Énergie Montreal 94.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKMFFMAAC_SC.aac
+#EXTINF:-1  tvg-name="Énergie Saguenay 94.5" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/s7724/images/logod.png?t=160441" tvg-chno="132" group-title="📻 Radio Québécoise",Énergie Saguenay 94.5
+https://playerservices.streamtheworld.com/api/livestream-redirect/CJABFMAAC_SC.aac
+#EXTINF:-1  tvg-name="Énergie Trois-Rivières 102.3" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/11730.v11.png" tvg-chno="133" group-title="📻 Radio Québécoise",Énergie Trois-Rivières 102.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/CIGBFMAAC_SC.aac
+#EXTINF:-1  tvg-name="Énergie Magog-Sherbrooke 106.1-106.9" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://i.imgur.com/LgKt9B4.png" tvg-chno="139" group-title="📻 Radio Québécoise",Énergie Magog-Sherbrooke 106.1-106.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/CIMOFMAAC_SC.aac
+#EXTINF:-1  tvg-name="Énergie Rouyn-Noranda 99.1" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.seeklogo.com%2Flogo-png%2F48%2F1%2Fenergie-99-1-92-5-rouyn-logo-png_seeklogo-489119.png&f=1&nofb=1&ipt=403f60035f9edd68c216f4dbe55ea9678e917b5e1509ede2a8b66cd41f2fae52" tvg-chno="134" group-title="📻 Radio Québécoise",Énergie Rouyn-Noranda 99.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/CJMMFMAAC_SC.aac
+#EXTINF:-1  tvg-name="Énergie Gatineau 104.1" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/s12319/images/logod.png" tvg-chno="138" group-title="📻 Radio Québécoise",Énergie Gatineau 104.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKTFFMAAC_SC.aac
+#EXTINF:-1  tvg-name="Rythme FM 102,9 Québec" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/s2776/images/logod.jpg" tvg-chno="124" group-title="📻 Radio Québécoise",Rythme FM 102.9 Québec
+https://playerservices.streamtheworld.com/api/livestream-redirect/CFOMFMAAC_SC.aac
+#EXTINF:-1  tvg-name="Rythme FM 105,7 Montréal" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/s31119/images/logod.jpg" tvg-chno="123" group-title="📻 Radio Québécoise",Rythme FM 105.7 Montréal
+https://playerservices.streamtheworld.com/api/livestream-redirect/CFGLFMAAC_SC.aac
+#EXTINF:-1  tvg-name="Rythme FM 98.3 Saguenay" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/s7749/images/logod.jpg" tvg-chno="125" group-title="📻 Radio Québécoise",Rythme FM 98.3 Saguenay
+https://playerservices.streamtheworld.com/api/livestream-redirect/CILMFMAAC_SC.aac
+#EXTINF:-1  tvg-name="Rythme FM 100.1 Mauricie" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/s113509/images/logod.jpg" tvg-chno="126" group-title="📻 Radio Québécoise",Rythme FM 100.1 Mauricie
+https://playerservices.streamtheworld.com/api/livestream-redirect/CJEBFMAAC_SC.aac
+#EXTINF:-1  tvg-name="Rythme FM 93.7 - 98.1 Estrie" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/s113507/images/logod.jpg" tvg-chno="127" group-title="📻 Radio Québécoise",Rythme FM 93.7 - 98.1 Estrie
+https://playerservices.streamtheworld.com/api/livestream-redirect/CFGEFMAAC_SC.aac
+#EXTINF:-1  tvg-name="Plaisir 101.9 Victoriaville" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://i.imgur.com/U0pmW7i.png" tvg-chno="141" group-title="📻 Radio Québécoise",Plaisir 101.9 Victoriaville
+https://playerservices.streamtheworld.com/api/livestream-redirect/CFDA_FM.mp3
+#EXTINF:-1  tvg-name="Plaisir 94.1 Sept-Iles" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://i.imgur.com/bQYJaHg.png" tvg-chno="140" group-title="📻 Radio Québécoise",Plaisir 94.1 Sept-Iles
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKCN_FM.mp3
+#EXTINF:-1  tvg-name="Plaisir 105.3 Matane" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://i.imgur.com/oUt2tlv.png" tvg-chno="142" group-title="📻 Radio Québécoise",Plaisir 105.3 Matane
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHRM_FM.mp3
+#EXTINF:-1  tvg-name="Plaisir 105.5 Thetford Mines" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://i.imgur.com/oHWNh8a.png" tvg-chno="143" group-title="📻 Radio Québécoise",Plaisir 105.5 Thetford Mines
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKLD_FM.mp3
+#EXTINF:-1  tvg-name="Plaisir 106.7 Lac-Megantic" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://i.imgur.com/wD77aSH.png" tvg-chno="144" group-title="📻 Radio Québécoise",Plaisir 106.7 Lac-Megantic
+https://playerservices.streamtheworld.com/api/livestream-redirect/CJIT_FM.mp3
+#EXTINF:-1  tvg-name="Rouge FM Montreal 107.3" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://i.imgur.com/Iz59VNG.png" tvg-chno="145" group-title="📻 Radio Québécoise",Rouge FM Montreal 107.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/CITEFMAAC_SC.aac
+#EXTINF:-1  tvg-name="Rouge FM Quebec 107.5" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://i.imgur.com/7HmxwEj.png" tvg-chno="146" group-title="📻 Radio Québécoise",Rouge FM Quebec 107.5
+https://playerservices.streamtheworld.com/api/livestream-redirect/CITFFMAAC_SC.aac
+#EXTINF:-1  tvg-name="Rouge FM Saguenay 96.9" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://i.imgur.com/hqgw3Iu.png" tvg-chno="148" group-title="📻 Radio Québécoise",Rouge FM Saguenay 96.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/CFIXFMAAC_SC.aac
+#EXTINF:-1  tvg-name="Rouge FM Mauricie 94.7" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://i.imgur.com/D65EJMR.png" tvg-chno="149" group-title="📻 Radio Québécoise",Rouge FM Mauricie 94.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHEYFMAAC_SC.aac
+#EXTINF:-1  tvg-name="Rouge FM Amqui 99.9" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://i.imgur.com/6GPUZmB.png" tvg-chno="150" group-title="📻 Radio Québécoise",Rouge FM Amqui 99.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/CFVMFMAAC_SC.aac
+#EXTINF:-1  tvg-name="Rouge FM Gatineau 94.9" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/s12316/images/logod.png" tvg-chno="147" group-title="📻 Radio Québécoise",Rouge FM Gatineau 94.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/CIMFFMAAC_SC.aac
+#EXTINF:-1  tvg-name="Hit Country 105.3 Beauce" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://hitcountry.com/wp-content/uploads/2020/01/Beauce_blanc-transparent.png" tvg-chno="151" group-title="📻 Radio Québécoise",Hit Country 105.3 Beauce
+https://stream2.statsradio.com:8108/stream
+#EXTINF:-1  tvg-name="Hit Country 105.5 Saguenay" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://i.imgur.com/CMjpiOQ.png" tvg-chno="152" group-title="📻 Radio Québécoise",Hit Country 105.5 Saguenay
+http://stream.statsradio.com:8088/stream
+#EXTINF:-1  tvg-name="Québec Country Radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="http://quebec-country.com/wp-content/uploads/2019/10/RQC2017-1-1024x683.jpg" tvg-chno="154" group-title="📻 Radio Québécoise",Québec Country Radio
+http://play.quebec-country.com/
+#EXTINF:-1  tvg-name="99.7 MIX Beauce" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="http://www.mix997.com/assets/img/facebook.png" tvg-chno="155" group-title="📻 Radio Québécoise",99.7 MIX Beauce
+http://stream.statsradio.com:8054/stream
+#EXTINF:-1  tvg-name="CKAJ 92.5  Saguenay" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://ckaj.org/wp-content/uploads/2023/04/Asset-1white.png" tvg-chno="157" group-title="📻 Radio Québécoise",CKAJ 92.5  Saguenay
+https://stream.statsradio.com/8060/stream
+#EXTINF:-1  tvg-name="CFNJ 99.1 & 88.9 Lanaudière" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cfnj.net/wp-content/uploads/2022/10/Logo-header-CFNJ-2022.png" tvg-chno="159" group-title="📻 Radio Québécoise",CFNJ 99.1 & 88.9 Lanaudière
+https://stream.statsradio.com:8104/stream
+#EXTINF:-1  tvg-name="Truck Stop Quebec" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://www.truckstopquebec.com/wp-content/uploads/2013/10/tsq300x901.png" tvg-chno="156" group-title="📻 Radio Québécoise",Truck Stop Quebec
+http://canada1.reliastream.com:8052/live
+#EXTINF:-1  tvg-name="Stingray Hit List" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png" tvg-chno="301" group-title="📺 Stingray Music",Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="Stingray Holiday Hits" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png" tvg-chno="300" group-title="📺 Stingray Music",Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="Stingray Classic Rock" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png" tvg-chno="302" group-title="📺 Stingray Music",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="Stingray Rock Alternative" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png" tvg-chno="303" group-title="📺 Stingray Music",Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="Stingray Easy Listening" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" tvg-chno="312" group-title="📺 Stingray Music",Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="Stingray Pop Adult" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png" tvg-chno="304" group-title="📺 Stingray Music",Stingray Today's K-Pop
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="Stingray Today's K-Pop" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://i.imgur.com/mMbntB5.png" tvg-chno="316" group-title="📺 Stingray Music",Stingray Today's K-Pop
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="Stingray Flashback 70s" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png" tvg-chno="307" group-title="📺 Stingray Music",Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="Stingray Everything 80s" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png" tvg-chno="308" group-title="📺 Stingray Music",Stingray Everything 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="Stingray Nothin' But 90s" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://i.imgur.com/Tq3I0po.png" tvg-chno="309" group-title="📺 Stingray Music",Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="Stingray Today's Latin Pop" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png" tvg-chno="310" group-title="📺 Stingray Music",Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="Stingray Urban Beat" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png" tvg-chno="305" group-title="📺 Stingray Music",Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="Stingray Hot Country" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/stingray.png" tvg-chno="306" group-title="📺 Stingray Music",Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="Stingray Qello Concerts" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://i.imgur.com/IRyFTWq.png" tvg-chno="318" group-title="📺 Stingray Music",Stingray Qello Concerts
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="Stingray DJAZZ" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" tvg-chno="314" group-title="📺 Stingray Music",Stingray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="Rammstein 24/7 Radio Bob" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/s310281/images/logod.png?t=1" tvg-chno="400" group-title="📻 Music Bands",Rammstein 24/7 Radio Bob
+https://radio21.streamabc.net/radio21-rammstein-mp3-256-6531580
+#EXTINF:-1  tvg-name="Metallica 24/7 Radio Bob" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://ca.radio.net/images/broadcasts/7e/92/120258/2/c300.png" tvg-chno="401" group-title="📻 Music Bands",Metallica 24/7 Radio Bob
+https://regiocast.streamabc.net/regc-radiobobmetallica3164584-mp3-192-3532789
+#EXTINF:-1  tvg-name="Metallica 24/7 Exclusive Radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://spng.pinpng.com/pngs/s/34-349076_metallica-logo-png-metallica-png-transparent-png.png" tvg-chno="402" group-title="📻 Music Bands",Metallica 24/7 Exclusive Radio
+https://streaming.exclusive.radio/er-app/metallica/icecast.audio
+#EXTINF:-1  tvg-name="AC/DC 24/7 Radio Bob" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/s256712/images/logod.jpg?t=1" tvg-chno="403" group-title="📻 Music Bands",AC/DC 24/7 Radio Bob
+https://regiocast.streamabc.net/regc-radiobobacdc4694296-mp3-192-2891760
+#EXTINF:-1  tvg-name="Queen 24/7 Radio Bob" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://www.radio.fr/images/broadcasts/fe/a6/40670/3/c300.png" tvg-chno="404" group-title="📻 Music Bands",Queen 24/7 Radio Bob
+https://regiocast.streamabc.net/regc-radiobobqueen9008899-mp3-192-1544549
+#EXTINF:-1  tvg-name="Queen 24/7 Exclusive Radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://www.radio.fr/images/broadcasts/c6/37/180248/1/c300.png" tvg-chno="405" group-title="📻 Music Bands",Queen 24/7 Exclusive Radio
+https://streaming.exclusive.radio/er-app/queen/icecast.audio
+#EXTINF:-1  tvg-name="Elvis Radio 24/7 Exclusive Radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/bQtFzTdYNJ.jpg" tvg-chno="406" group-title="📻 Music Bands",Elvis Radio 24/7 Exclusive Radio
+https://2.mystreaming.net/er-app/elvispresley/chunks.m3u8
+#EXTINF:-1  tvg-name="Beatlles 24/7 181.fm" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://pluspng.com/img-png/the-beatles-png-the-beatles-by-andreza0406-the-beatles-by-andreza0406-900.png" tvg-chno="408" group-title="📻 Music Bands",Beatlles 24/7 181.fm
+http://listen.181fm.com/181-beatles_128k.mp3
+#EXTINF:-1  tvg-name="Motley Crue 24/7 Exclusive Radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://clipartcraft.com/images/motley-crue-logo-crew-1.png" tvg-chno="409" group-title="📻 Music Bands",Motley Crue 24/7 Exclusive Radio
+https://streaming.exclusive.radio/er-app/motleycrue/icecast.audio
+#EXTINF:-1  tvg-name="Aerosmith 24/7 Exclusive Radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="http://clipart-library.com/new_gallery/58-585281_aerosmith-permanent-vacation-t-shirt.png" tvg-chno="410" group-title="📻 Music Bands",Aerosmith 24/7 Exclusive Radio
+https://streaming.exclusive.radio/er-app/aerosmithhits/icecast.audio
+#EXTINF:-1  tvg-name="Bon Jovi 24/7 Exclusive Radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://i.pinimg.com/originals/7d/ff/a5/7dffa57f18df4771f03b2902959aaf28.png" tvg-chno="411" group-title="📻 Music Bands",Bon Jovi 24/7 Exclusive Radio
+https://streaming.exclusive.radio/er-app/bonjovihits/icecast.audio
+#EXTINF:-1  tvg-name="Gun's and Roses 24/7 Exclusive Radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://musikiathek.de/wp-content/uploads/2018/05/guns-n-roses.png" tvg-chno="412" group-title="📻 Music Bands",Gun's and Roses 24/7 Exclusive Radio
+https://streaming.exclusive.radio/er-app/gunsnroses/icecast.audio
+#EXTINF:-1  tvg-name="Def Leppard 24/7 Exclusive Radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://logodix.com/logo/29953.png" tvg-chno="413" group-title="📻 Music Bands",Def Leppard 24/7 Exclusive Radio
+https://streaming.exclusive.radio/er-app/defleppard/icecast.audio
+#EXTINF:-1  tvg-name="The Heart (Love Songs)" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="500" group-title="📻 181FM",The Heart (Love Songs)
+http://listen.livestreamingservice.com/181-heart_128k.mp3
+#EXTINF:-1  tvg-name="Led Zeppelin 24/7 Exclusive Radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://lasopadigi870.weebly.com/uploads/1/2/5/8/125825120/629611460.png" tvg-chno="414" group-title="📻 Music Bands",Led Zeppelin 24/7 Exclusive Radio
+https://streaming.exclusive.radio/er-app/ledzeppelinhits/icecast.audio
+#EXTINF:-1  tvg-name="Power 181 (Top 40)" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="501" group-title="📻 181FM",Power 181 (Top 40)
+http://listen.livestreamingservice.com/181-power_128k.mp3
+#EXTINF:-1  tvg-name="Power 181 [E]" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="502" group-title="📻 181FM",Power 181 [E]
+http://listen.livestreamingservice.com/181-powerexplicit_128k.mp3
+#EXTINF:-1  tvg-name="UK top 40" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="503" group-title="📻 181FM",UK top 40
+http://listen.livestreamingservice.com/181-uktop40_128k.mp3
+#EXTINF:-1  tvg-name="Awesome 80's" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="504" group-title="📻 181FM",Awesome 80's
+http://listen.livestreamingservice.com/181-awesome80s_128k.mp3
+#EXTINF:-1  tvg-name="Lite 80's" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="505" group-title="📻 181FM",Lite 80's
+http://listen.livestreamingservice.com/181-lite80s_128k.mp3
+#EXTINF:-1  tvg-name="80's RnB" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="506" group-title="📻 181FM",80's RnB
+http://listen.livestreamingservice.com/181-80srnb_128k.mp3
+#EXTINF:-1  tvg-name="80's Hairband" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="507" group-title="📻 181FM",80's Hairband
+http://listen.livestreamingservice.com/181-hairband_128k.mp3
+#EXTINF:-1  tvg-name="80's Country" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="508" group-title="📻 181FM",80's Country
+http://listen.livestreamingservice.com/181-80scountry_128k.mp3
+#EXTINF:-1  tvg-name="Star 90's" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="511" group-title="📻 181FM",Star 90's
+http://listen.livestreamingservice.com/181-star90s_128k.mp3
+#EXTINF:-1  tvg-name="90's Country" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="512" group-title="📻 181FM",90's Country
+http://listen.livestreamingservice.com/181-90scountry_128k.mp3
+#EXTINF:-1  tvg-name="Lite 90's" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="513" group-title="📻 181FM",Lite 90's
+http://listen.livestreamingservice.com/181-lite90s_128k.mp3
+#EXTINF:-1  tvg-name="90's Alternative" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="514" group-title="📻 181FM",90's Alternative
+http://listen.livestreamingservice.com/181-90salt_128k.mp3
+#EXTINF:-1  tvg-name="90's Dance" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="515" group-title="📻 181FM",90's Dance
+http://listen.livestreamingservice.com/181-90sdance_128k.mp3
+#EXTINF:-1  tvg-name="90's RnB" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="516" group-title="📻 181FM",90's RnB
+http://listen.livestreamingservice.com/181-90srnb_128k.mp3
+#EXTINF:-1  tvg-name="The Eagle (Classic)" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="517" group-title="📻 181FM",The Eagle (Classic)
+http://listen.livestreamingservice.com/181-eagle_128k.mp3
+#EXTINF:-1  tvg-name="Energy 98" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="524" group-title="📻 181FM",Energy 98
+http://listen.livestreamingservice.com/181-energy98_128k.mp3
+#EXTINF:-1  tvg-name="Classic Energy" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="525" group-title="📻 181FM",Classic Energy
+http://listen.livestreamingservice.com/181-classicenergy_128k.mp3
+#EXTINF:-1  tvg-name="Rock 181" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="518" group-title="📻 181FM",Rock 181
+http://listen.livestreamingservice.com/181-rock_128k.mp3
+#EXTINF:-1  tvg-name="The Rock! (Hard Rock)" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="519" group-title="📻 181FM",The Rock! (Hard Rock)
+http://listen.livestreamingservice.com/181-hardrock_128k.mp3
+#EXTINF:-1  tvg-name="Rock 40 (Rock & Roll)" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="520" group-title="📻 181FM",Rock 40 (Rock & Roll)
+http://listen.livestreamingservice.com/181-rock40_128k.mp3
+#EXTINF:-1  tvg-name="The Buzz (Alt. Rock)" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="509" group-title="📻 181FM",The Buzz (Alt. Rock)
+http://listen.livestreamingservice.com/181-buzz_128k.mp3
+#EXTINF:-1  tvg-name="Classic Buzz (Alt)" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="510" group-title="📻 181FM",Classic Buzz (Alt)
+http://listen.livestreamingservice.com/181-classicbuzz_128k.mp3
+#EXTINF:-1  tvg-name="Kickin' Country" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="521" group-title="📻 181FM",Kickin' Country
+http://listen.livestreamingservice.com/181-kickincountry_128k.mp3
+#EXTINF:-1  tvg-name="Real Country" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="522" group-title="📻 181FM",Real Country
+http://listen.livestreamingservice.com/181-realcountry_128k.mp3
+#EXTINF:-1  tvg-name="The Beat (HipHop/R&B)" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="523" group-title="📻 181FM",The Beat (HipHop/R&B)
+http://listen.livestreamingservice.com/181-beat_128k.mp3
+#EXTINF:-1  tvg-name="Chilled Out" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="526" group-title="📻 181FM",Chilled Out
+http://listen.livestreamingservice.com/181-chilled_128k.mp3
+#EXTINF:-1  tvg-name="The Breeze" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="527" group-title="📻 181FM",The Breeze
+http://listen.livestreamingservice.com/181-breeze_128k.mp3
+#EXTINF:-1  tvg-name="True Blues" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="528" group-title="📻 181FM",True Blues
+http://listen.livestreamingservice.com/181-blues_128k.mp3
+#EXTINF:-1  tvg-name="Beatles" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="529" group-title="📻 181FM",Beatles
+http://listen.livestreamingservice.com/181-beatles_128k.mp3
+#EXTINF:-1  tvg-name="Good Time Oldies" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="530" group-title="📻 181FM",Good Time Oldies
+http://listen.livestreamingservice.com/181-goodtime_128k.mp3
+#EXTINF:-1  tvg-name="Oldies Classic Hits 181" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="531" group-title="📻 181FM",Oldies Classic Hits 181
+http://listen.livestreamingservice.com/181-greatoldies_128k.mp3
+#EXTINF:-1  tvg-name="Classical Music" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="532" group-title="📻 181FM",Classical Music
+http://listen.livestreamingservice.com/181-classical_128k.mp3
+#EXTINF:-1  tvg-name="Christmas Classics" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://radiostationusa.fm/assets/image/radio/180/181fm.png" tvg-chno="533" group-title="📻 181FM",Christmas Classics
+http://listen.livestreamingservice.com/181-xtraditional_128k.mp3
+#EXTINF:-1  tvg-name="iHeart 50s Radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="600" group-title="📻 iHeart Radio",iHeart 50s Radio
+https://stream.revma.ihrhls.com/zc6882
+#EXTINF:-1  tvg-name="iHeart 60s Radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="601" group-title="📻 iHeart Radio",iHeart 60s Radio
+http://stream.revma.ihrhls.com/zc6873/hls.m3u8
+#EXTINF:-1  tvg-name="iHeart 70s Radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="602" group-title="📻 iHeart Radio",iHeart 70s Radio
+http://stream.revma.ihrhls.com/zc6843/hls.m3u8
+#EXTINF:-1  tvg-name="iHeart 80s Radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="603" group-title="📻 iHeart Radio",iHeart 80s Radio
+http://stream.revma.ihrhls.com/zc5060/hls.m3u8
+#EXTINF:-1  tvg-name="iHeart 90s Radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="604" group-title="📻 iHeart Radio",iHeart 90s Radio
+http://stream.revma.ihrhls.com/zc6834/hls.m3u8
+#EXTINF:-1  tvg-name="iHeart 2000s Radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="605" group-title="📻 iHeart Radio",iHeart 2000s Radio
+http://stream.revma.ihrhls.com/zc6850/hls.m3u8
+#EXTINF:-1  tvg-name="iHeart 2010s Radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="606" group-title="📻 iHeart Radio",iHeart 2010s Radio
+http://stream.revma.ihrhls.com/zc8478/hls.m3u8
+#EXTINF:-1  tvg-name="Real Oldies 60s & 70s Hits" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="607" group-title="📻 iHeart Radio",Real Oldies 60s & 70s Hits
+http://stream.revma.ihrhls.com/zc4717/hls.m3u8
+#EXTINF:-1  tvg-name="Big Classic Hits 70s-90s" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="608" group-title="📻 iHeart Radio",Big Classic Hits 70s-90s
+http://stream.revma.ihrhls.com/zc4455/hls.m3u8
+#EXTINF:-1  tvg-name="Lost 80s Hits" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="609" group-title="📻 iHeart Radio",Lost 80s Hits
+https://stream.revma.ihrhls.com/zc7934/hls.m3u8
+#EXTINF:-1  tvg-name="One Hit Wonder Radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="610" group-title="📻 iHeart Radio",One Hit Wonder Radio
+http://stream.revma.ihrhls.com/zc6669/hls.m3u8
+#EXTINF:-1  tvg-name="The Classic Rock Channel" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="611" group-title="📻 iHeart Radio",The Classic Rock Channel
+http://stream.revma.ihrhls.com/zc4426/hls.m3u8
+#EXTINF:-1  tvg-name="Non Stop Rock" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="612" group-title="📻 iHeart Radio",Non Stop Rock
+http://stream.revma.ihrhls.com/zc4443/hls.m3u8
+#EXTINF:-1  tvg-name="Rock Nation's Top 20" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="613" group-title="📻 iHeart Radio",Rock Nation's Top 20
+http://stream.revma.ihrhls.com/zc4932/hls.m3u8
+#EXTINF:-1  tvg-name="Kiss Radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="615" group-title="📻 iHeart Radio",Kiss Radio
+http://stream.revma.ihrhls.com/zc7362/hls.m3u8
+#EXTINF:-1  tvg-name="Lite Rock" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="616" group-title="📻 iHeart Radio",Lite Rock
+http://stream.revma.ihrhls.com/zc6830/hls.m3u8
+#EXTINF:-1  tvg-name="Popcorn Radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="617" group-title="📻 iHeart Radio",Popcorn Radio
+http://stream.revma.ihrhls.com/zc7445/hls.m3u8
+#EXTINF:-1  tvg-name="Real Fun Beach" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="618" group-title="📻 iHeart Radio",Real Fun Beach
+http://stream.revma.ihrhls.com/zc6221/hls.m3u8
+#EXTINF:-1  tvg-name="Rock Workout" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="619" group-title="📻 iHeart Radio",Rock Workout
+http://stream.revma.ihrhls.com/zc7800/hls.m3u8
+#EXTINF:-1  tvg-name="Slippery When Wet" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="620" group-title="📻 iHeart Radio",Slippery When Wet
+http://stream.revma.ihrhls.com/zc4858/hls.m3u8
+#EXTINF:-1  tvg-name="iHeartRadio Countdown" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="621" group-title="📻 iHeart Radio",iHeartRadio Countdown
+http://stream.revma.ihrhls.com/zc6455/hls.m3u8
+#EXTINF:-1  tvg-name="Gran Torino" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="622" group-title="📻 iHeart Radio",Gran Torino
+http://stream.revma.ihrhls.com/zc6803/hls.m3u8
+#EXTINF:-1  tvg-name="Gen X Radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="623" group-title="📻 iHeart Radio",Gen X Radio
+http://stream.revma.ihrhls.com/zc5322/hls.m3u8
+#EXTINF:-1  tvg-name="Full Metal Jackie" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="624" group-title="📻 iHeart Radio",Full Metal Jackie
+http://stream.revma.ihrhls.com/zc6225/hls.m3u8
+#EXTINF:-1  tvg-name="Hit Nation" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="625" group-title="📻 iHeart Radio",Hit Nation
+http://stream.revma.ihrhls.com/zc4422/hls.m3u8
+#EXTINF:-1  tvg-name="Hit Nation Top 20" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="626" group-title="📻 iHeart Radio",Hit Nation Top 20
+http://stream.revma.ihrhls.com/zc4878/hls.m3u8
+#EXTINF:-1  tvg-name="Hit Nation Junior" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="627" group-title="📻 iHeart Radio",Hit Nation Junior
+https://stream.revma.ihrhls.com/zc6395/hls.m3u8
+#EXTINF:-1  tvg-name="Radio Disney (Geo-USA)" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="628" group-title="📻 iHeart Radio",Radio Disney (Geo-USA)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIODISNEY_IHEART.m3u8
+#EXTINF:-1  tvg-name="Family Top 40 Countdown" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="629" group-title="📻 iHeart Radio",Family Top 40 Countdown
+https://stream.revma.ihrhls.com/zc7013/hls.m3u8
+#EXTINF:-1  tvg-name="Kids Hits" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="630" group-title="📻 iHeart Radio",Kids Hits
+https://stream.revma.ihrhls.com/zc7223/hls.m3u8
+#EXTINF:-1  tvg-name="Build-A-Bear Radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="631" group-title="📻 iHeart Radio",Build-A-Bear Radio
+https://stream.revma.ihrhls.com/zc8430/hls.m3u8
+#EXTINF:-1  tvg-name="Kids Club Radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="632" group-title="📻 iHeart Radio",Kids Club Radio
+https://stream.revma.ihrhls.com/zc6551/hls.m3u8
+#EXTINF:-1  tvg-name="Country Family" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="633" group-title="📻 iHeart Radio",Country Family
+https://stream.revma.ihrhls.com/zc7014/hls.m3u8
+#EXTINF:-1  tvg-name="Disney Country (Geo-USA)" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="634" group-title="📻 iHeart Radio",Disney Country (Geo-USA)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RDCOUNTRYAAC64.m3u8
+#EXTINF:-1  tvg-name="Lullabies Radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="635" group-title="📻 iHeart Radio",Lullabies Radio
+https://stream.revma.ihrhls.com/zc7249/hls.m3u8
+#EXTINF:-1  tvg-name="Read2Know Radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="636" group-title="📻 iHeart Radio",Read2Know Radio
+https://stream.revma.ihrhls.com/zc7101/hls.m3u8
+#EXTINF:-1  tvg-name="Maginate Radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="637" group-title="📻 iHeart Radio",Maginate Radio
+https://stream.revma.ihrhls.com/zc8523/hls.m3u8
+#EXTINF:-1  tvg-name="NBC News Radio" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://cdn-profiles.tunein.com/c100005513/images/logod.jpg" tvg-chno="614" group-title="📻 iHeart Radio",NBC News Radio
+https://stream.revma.ihrhls.com/zc6043/hls.m3u8
+#EXTINF:-1  tvg-name="Litt Live Radio | 60's" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/2/logos/44b9bec4-6abf-4220-b93e-5edefcd6bff9.png" tvg-chno="710" group-title="📻 Litt Live Radio",Litt Live Radio | 60's
+https://das-sa39.cdnstream1.com/5557_128
+#EXTINF:-1  tvg-name="Litt Live Radio | 70's" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/70/logos/83aee305-112d-4ae5-902b-d1063eb139f0.png" tvg-chno="709" group-title="📻 Litt Live Radio",Litt Live Radio | 70's
+https://das-sa39.cdnstream1.com/5558_128
+#EXTINF:-1  tvg-name="Litt Live Radio | 80's" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/31/logos/16be4720-e9bd-4a3e-9674-8f7f09551195.png" tvg-chno="708" group-title="📻 Litt Live Radio",Litt Live Radio | 80's
+https://das-sa39.cdnstream1.com/5559_128
+#EXTINF:-1  tvg-name="Litt Live Radio | 90's" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/62/logos/aa237ec4-6114-4702-a19e-0062e12030b5.png" tvg-chno="707" group-title="📻 Litt Live Radio",Litt Live Radio | 90's
+https://das-sa39.cdnstream1.com/5560_128
+#EXTINF:-1  tvg-name="Litt Live Radio | Rock" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/22/logos/a1522fe3-1990-41dd-919e-f4c0a32e7c64.png" tvg-chno="711" group-title="📻 Litt Live Radio",Litt Live Radio | Rock
+https://das-sa39.cdnstream1.com/5591_128
+#EXTINF:-1  tvg-name="Litt Live Radio | Disco Fever" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/76/logos/451e4d48-8cfe-40fb-a436-2fa5546a01eb.png" tvg-chno="712" group-title="📻 Litt Live Radio",Litt Live Radio | Disco Fever
+https://das-sa39.cdnstream1.com/5566_128
+#EXTINF:-1  tvg-name="Litt Live Radio | Legends of Rock" tvg-id="Radio.Channel.(RADIO).ca" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/40/logos/c28255f3-0b59-4149-ab1f-09b2c40ba4a7.png" tvg-chno="701" group-title="📻 Litt Live Radio",Litt Live Radio | Legends of Rock
+https://das-sa39.cdnstream1.com/5602_128
